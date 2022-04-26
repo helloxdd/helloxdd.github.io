@@ -506,7 +506,14 @@
 {"key":"桃","name":"桃","type":1,"api":"https://api.taoseapi.com/api.php/provide/vod/","playUrl":"","categories":[],"quickSearch":0},
 {"key":"秀","name":"秀","type":1,"api":"https://api.xiuseapi.com/api.php/provide/vod/","playUrl":"","categories":[],"quickSearch":0},
 {"key":"CK","name":"CK","type":1,"api":"https://ckzy.me/api.php/provide/vod/","playUrl":"","categories":[],"quickSearch":0},
-{"key":"g","name":"g","type":0,"api":"https://free1214-23479.aug-0902.pinsese.net:21902/api/json.php","playUrl":"","categories":[],"quickSearch":0}
+{"key":"g0","name":"g0","type":0,"api":"https://free1214-23479.aug-0902.pinsese.net:21902/inc/sapi.php?ac=videolist","playUrl":"","categories":[],"quickSearch":0},
+{"key":"g1","name":"g1","type":0,"api":"https://free1214-23479.aug-0902.pinsese.net:21902/sapi/?ac=videolist","playUrl":"","categories":[],"quickSearch":0},
+{"key":"g1","name":"g1","type":0,"api":"https://free1214-23479.aug-0902.pinsese.net:21902/api.php/provide/vod","playUrl":"","categories":[],"quickSearch":0},
+{"key":"g1","name":"g1","type":0,"api":"https://free1214-23479.aug-0902.pinsese.net:21902/inc/api.php","playUrl":"","categories":[],"quickSearch":0},
+{"key":"g1","name":"g1","type":0,"api":"https://free1214-23479.aug-0902.pinsese.net:21902/api.php/provide/vod/","playUrl":"","categories":[],"quickSearch":0},
+{"key":"g1","name":"g1","type":0,"api":"https://free1214-23479.aug-0902.pinsese.net:21902/sapi?ac=videolist","playUrl":"","categories":[],"quickSearch":0},
+{"key":"g1","name":"g1","type":0,"api":"https://free1214-23479.aug-0902.pinsese.net:21902/api.php?ac=list","playUrl":"","categories":[],"quickSearch":0},
+{"key":"g1","name":"g1","type":0,"api":"https://free1214-23479.aug-0902.pinsese.net:21902/inc/xml":"","categories":[],"quickSearch":0}
 ],
 //以下直播列表
 "lives": [
