@@ -506,7 +506,7 @@
 {"key":"桃","name":"桃","type":1,"api":"https://api.taoseapi.com/api.php/provide/vod/","playUrl":"","categories":[],"quickSearch":0},
 {"key":"秀","name":"秀","type":1,"api":"https://api.xiuseapi.com/api.php/provide/vod/","playUrl":"","categories":[],"quickSearch":0},
 {"key":"CK","name":"CK","type":1,"api":"https://ckzy.me/api.php/provide/vod/","playUrl":"","categories":[],"quickSearch":0},
-{"key":"g","name":"g","type":0,"api":"https://free1214-23479.aug-0902.pinsese.net:21902/","playUrl":"","categories":[],"quickSearch":0}
+{"key":"g","name":"g","type":0,"api":"https://free1214-23479.aug-0902.pinsese.net:21902/api/json.php","playUrl":"","categories":[],"quickSearch":0}
 ],
 //以下直播列表
 "lives": [
