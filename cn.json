@@ -507,7 +507,7 @@
 {"key":"秀","name":"秀","type":1,"api":"https://api.xiuseapi.com/api.php/provide/vod/","playUrl":"","categories":[],"quickSearch":0},
 {"key":"CK","name":"CK","type":1,"api":"https://ckzy.me/api.php/provide/vod/","playUrl":"","categories":[],"quickSearch":0}
 ],
-{"key":"国产原创","name":"国产原创","type":1,"api":"free1214-23479.aug-0902.pinsese.net/api.php/provide/vod/","playUrl":"","categories":[],"quickSearch":0}
+{"key":"国产原创","name":"国产原创","type":1,"api":"https://free1214-23479.aug-0902.pinsese.net:21902/api.php/provide/vod/","playUrl":"","categories":[],"quickSearch":0}
 ],
 //以下直播列表
 "lives": [
